@@ -428,6 +428,9 @@ ul{
     .about .brdr{
         display: none;
     }
+    .about .about-content{
+        padding: 0 1.5rem;
+    }
     .about .about-content .box{
         width: 100%;
         text-align: justify;
