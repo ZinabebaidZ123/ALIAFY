@@ -163,14 +163,8 @@ ul{
 .navbar .button{
     background-color: var(--main-color);
     height: 100% !important;
-    /* position: absolute !important;
-    top :0 !important;
-    bottom: 0 !important; */
     padding: 1.5rem !important;
     margin: 0 !important;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 .video {
     width: 100%;
@@ -244,7 +238,7 @@ ul{
     background-image: url('../images/banner-img.png');
     height: 100vh;
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
     position: relative;
     margin-bottom: 10rem;
     overflow: hidden;
